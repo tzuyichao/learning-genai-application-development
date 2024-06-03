@@ -6,10 +6,12 @@ attrs==23.2.0
 certifi==2024.2.2
 chardet==5.2.0
 charset-normalizer==3.3.2
+click==8.1.7
 dataclasses-json==0.6.6
 defusedxml==0.7.1
 distro==1.9.0
 dnspython==2.6.1
+duckduckgo_search==6.1.4
 frozenlist==1.4.1
 grandalf==0.8
 greenlet==3.0.3
@@ -59,6 +61,7 @@ Pygments==2.18.0
 PyMeta3==0.5.1
 pymongo==4.7.2
 pyparsing==3.1.2
+pyreqwest_impersonate==0.4.7
 python-dotenv==1.0.1
 pytz==2024.1
 PyYAML==6.0.1
