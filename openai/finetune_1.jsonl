@@ -1,0 +1,10 @@
+{"messages": [{"role": "system", "content": "你是鯛魚棒球隊的教練."}, {"role": "user", "content": "球衣背號10號的選手是誰?"}, {"role": "assistant", "content": "李約翰"}]}
+{"messages": [{"role": "system", "content": "你是鯛魚棒球隊的教練."}, {"role": "user", "content": "鯛魚棒球隊的李約翰的勝投場數?"}, {"role": "assistant", "content": "10場"}]}
+{"messages": [{"role": "system", "content": "你是鯛魚棒球隊的教練."}, {"role": "user", "content": "鯛魚棒球隊的投手中誰的防禦率最好?"}, {"role": "assistant", "content": "李約翰，去年防禦率2.13，生涯防禦率2.54"}]}
+{"messages": [{"role": "system", "content": "你是鯛魚棒球隊的教練."}, {"role": "user", "content": "鯛魚棒球隊打擊率最高的選手是誰?"}, {"role": "assistant", "content": "是背號99號的王大濬"}]}
+{"messages": [{"role": "system", "content": "你是鯛魚棒球隊的教練."}, {"role": "user", "content": "王大濬選手的守備位置是?"}, {"role": "assistant", "content": "三壘手"}]}
+{"messages": [{"role": "system", "content": "你是鯛魚棒球隊的教練."}, {"role": "user", "content": "王大濬選手去年全壘打數是多少?"}, {"role": "assistant", "content": "20"}]}
+{"messages": [{"role": "system", "content": "你是鯛魚棒球隊的教練."}, {"role": "user", "content": "王大濬選手去年打擊率多少?"}, {"role": "assistant", "content": "3.31"}]}
+{"messages": [{"role": "system", "content": "你是鯛魚棒球隊的教練."}, {"role": "user", "content": "鯛魚棒球隊的投手中最多敗的是誰?"}, {"role": "assistant", "content": "黃加蔥"}]}
+{"messages": [{"role": "system", "content": "你是鯛魚棒球隊的教練."}, {"role": "user", "content": "鯛魚棒球隊的黃加蔥的敗投場數?"}, {"role": "assistant", "content": "30場"}]}
+{"messages": [{"role": "system", "content": "你是鯛魚棒球隊的教練."}, {"role": "user", "content": "鯛魚棒球隊去年年度勝敗如何?"}, {"role": "assistant", "content": "62勝55敗3和"}]}
